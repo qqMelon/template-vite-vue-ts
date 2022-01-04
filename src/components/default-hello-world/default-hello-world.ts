@@ -10,7 +10,7 @@ export default defineComponent({
     },
     text: {
       type: String,
-      default: 'This is a sbtitle',
+      default: 'This is a subtitle',
       required: false
     }
   }
