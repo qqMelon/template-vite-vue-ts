@@ -13,11 +13,11 @@ Set resolver in `main.ts` for path to `src/`
 
 ## plugins
 
-On branch `core-router` i added a predonfiguration of router on project, pull it if you want to use \
+On branch `core-router` i added a preconfiguration of router on project, pull it if you want to use \
 my base template with router.
 
 All branch available:
 
 - **core-router** base template + Router4 (from Vue)
-- **core-store** bqse template + Store (from Vue)
+- **core-store** base template + Store (from Vue)
 
