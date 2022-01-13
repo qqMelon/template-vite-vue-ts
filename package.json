@@ -8,11 +8,8 @@
   },
   "dependencies": {
     "vue": "^3.2.25",
-<<<<<<< HEAD
-    "vuex": "^4.0.2"
-=======
+    "vuex": "^4.0.2",
     "vue-router": "^4.0.12"
->>>>>>> core-router
   },
   "devDependencies": {
     "@types/node": "^17.0.4",
